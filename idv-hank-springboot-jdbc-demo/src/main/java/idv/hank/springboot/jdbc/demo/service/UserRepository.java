@@ -1,4 +1,4 @@
-package idv.hank.springboot.jdbc.demo.dao;
+package idv.hank.springboot.jdbc.demo.service;
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

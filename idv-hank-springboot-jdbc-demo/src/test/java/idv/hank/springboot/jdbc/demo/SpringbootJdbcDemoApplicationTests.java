@@ -12,8 +12,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.SpringApplicationConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import idv.hank.springboot.jdbc.demo.dao.UserRepository;
 import idv.hank.springboot.jdbc.demo.model.User;
+import idv.hank.springboot.jdbc.demo.service.UserRepository;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @SpringApplicationConfiguration(Application.class)
