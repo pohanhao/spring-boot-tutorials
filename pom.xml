@@ -19,6 +19,7 @@
 
 	<modules>
 		<module>idv-hank-springboot-jdbc-demo</module>
+		<module>idv-hank-springboot-daemon-demo</module>
 	</modules>
 
 	<dependencies>

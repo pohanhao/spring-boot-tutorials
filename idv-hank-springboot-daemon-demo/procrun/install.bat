@@ -1,0 +1,2 @@
+prunsrv.exe //IS//test-procrun --DisplayName="test-procrun" --Description="test-procrun" --Startup=auto --Install=%CD%\prunsrv.exe --Jvm=auto --Classpath=%CD%\..\target\idv-hank-springboot-daemon-demo-1.0.0-SNAPSHOT.jar --StartMode=jvm --StartClass=org.springframework.boot.loader.JarLauncher --StartMethod=main --StartParams=start --StopMode=jvm --StopClass=org.springframework.boot.loader.JarLauncher --StopMethod=main --StopParams=stop --StdOutput=auto --StdError=auto --LogPath=%CD% --LogLevel=Debug
+
