@@ -20,6 +20,8 @@
 	<modules>
 		<module>idv-hank-springboot-jdbc-demo</module>
 		<module>idv-hank-springboot-daemon-demo</module>
+		<module>idv-hank-springboot-mongodb-demo</module>
+		<module>idv-hank-springboot-file-download-demo</module>
 	</modules>
 
 	<dependencies>
