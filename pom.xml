@@ -9,7 +9,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.3.3.RELEASE</version>
+		<version>1.4.0.RELEASE</version>
 	</parent>
 
 	<properties>
@@ -22,6 +22,7 @@
 		<module>idv-hank-springboot-daemon-demo</module>
 		<module>idv-hank-springboot-mongodb-demo</module>
 		<module>idv-hank-springboot-file-download-demo</module>
+		<module>idv-hank-springboot-restdoc-demo</module>
 	</modules>
 
 	<dependencies>
